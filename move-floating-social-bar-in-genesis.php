@@ -14,7 +14,7 @@
  * Description:       Moves the Floating Social Bar plugin output from just inside the entry content to just before it.
  * Version:           1.0.0
  * Author:            Gary Jones
- * Author URI:        https://github.com/GaryJones/move-floating-social-bar-in-genesis
+ * Author URI:        http://gamajo.com/
  * Text Domain:       move-floating-social-bar-in-genesis
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
