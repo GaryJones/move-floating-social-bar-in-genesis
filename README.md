@@ -4,7 +4,7 @@ WordPress plugin that moves the [Floating Social Bar](http://wordpress.org/plugi
 
 ## Description
 
-See http://gamajo.com/move-floating-social-bar.
+See http://gamajo.com/move-floating-social-bar-genesis.
 
 ## Requirements
  * WordPress 3.4.1 (for Floating Social Bar)
