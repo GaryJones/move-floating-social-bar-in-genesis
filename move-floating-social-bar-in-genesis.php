@@ -44,7 +44,8 @@ function mfsbig_remove_floating_social_bar() {
 	}
 }
 
-add_action( 'genesis_before_entry_content', 'mfsbig_add_floating_social_bar' );
+add_action( 'genesis_before_post_content', 'mfsbig_add_floating_social_bar' );  // XHTML themes
+add_action( 'genesis_before_entry_content', 'mfsbig_add_floating_social_bar' ); // HTML5 themes
 /**
  * Echo the Floating Social Bar in the right place, just before the entry
  * content (after the header and entry meta) in Genesis child themes.
